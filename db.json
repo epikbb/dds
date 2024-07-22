@@ -1,4 +1,4 @@
-{
+"data" : [
 	"result": "success",
 	"totalPage": 1,
 	"organizations": [
@@ -267,4 +267,4 @@
 			"inDepartmentCode": "0010"
 		}
 	]
-}
+]
