@@ -269,8 +269,7 @@
 	],
 	"currentPage": 1,
 	"totalCount": 11
-},
-"unsortedData": {
+},"unsortedData": {
 	"result": "success",
 	"totalPage": 1,
 	"organizations": [
@@ -541,8 +540,7 @@
 	],
 	"currentPage": 1,
 	"totalCount": 11
-},
-"failedData": {
+},"failedData": {
 	"result": "f",
 	"totalPage": 1,
 	"organizations": [
@@ -813,8 +811,7 @@
 	],
 	"currentPage": 1,
 	"totalCount": 11
-},
-"emptyData": {
+},"emptyData": {
 	"result": "success",
 	"totalPage": 1,
 	"organizations": [],
