@@ -6,7 +6,7 @@
 				"enCompanyName": "SAMSUNG SDS",
 				"companyCode": "C60",
 				"departmentName": "Head Office",
-				"departmentCode": "0000",
+				"departmentCode": "Dept01",
 				"lowDepartmentYn": "F",
 				"preferredLanguage": "ko",
 				"departmentOrder": "10",
@@ -24,13 +24,13 @@
 				"enDepartmentName": "Head Office",
 				"enSubOrgCode": "00",
 				"uperDepartmentCode": null,
-				"inDepartmentCode": "0000"
+				"inDepartmentCode": "Dept01"
 			},
 			{
 				"enCompanyName": "SAMSUNG SDS",
 				"companyCode": "C60",
 				"departmentName": "Sales Department",
-				"departmentCode": "0001",
+				"departmentCode": "Dept02",
 				"lowDepartmentYn": "F",
 				"preferredLanguage": "ko",
 				"departmentOrder": "20",
@@ -47,14 +47,14 @@
 				"departmentLevel": "1",
 				"enDepartmentName": "Sales Department",
 				"enSubOrgCode": "01",
-				"uperDepartmentCode": "0000",
-				"inDepartmentCode": "0001"
+				"uperDepartmentCode": "Dept01",
+				"inDepartmentCode": "Dept02"
 			},
 			{
 				"enCompanyName": "SAMSUNG SDS",
 				"companyCode": "C60",
 				"departmentName": "Marketing Department",
-				"departmentCode": "0002",
+				"departmentCode": "Dept03",
 				"lowDepartmentYn": "F",
 				"preferredLanguage": "ko",
 				"departmentOrder": "30",
@@ -71,14 +71,14 @@
 				"departmentLevel": "1",
 				"enDepartmentName": "Marketing Department",
 				"enSubOrgCode": "02",
-				"uperDepartmentCode": "0000",
-				"inDepartmentCode": "0002"
+				"uperDepartmentCode": "Dept01",
+				"inDepartmentCode": "Dept03"
 			},
 			{
 				"enCompanyName": "SAMSUNG SDS",
 				"companyCode": "C60",
 				"departmentName": "HR Department",
-				"departmentCode": "0003",
+				"departmentCode": "Dept04",
 				"lowDepartmentYn": "F",
 				"preferredLanguage": "ko",
 				"departmentOrder": "40",
@@ -95,14 +95,14 @@
 				"departmentLevel": "1",
 				"enDepartmentName": "HR Department",
 				"enSubOrgCode": "03",
-				"uperDepartmentCode": "0000",
-				"inDepartmentCode": "0003"
+				"uperDepartmentCode": "Dept01",
+				"inDepartmentCode": "Dept04"
 			},
 			{
 				"enCompanyName": "SAMSUNG SDS",
 				"companyCode": "C60",
 				"departmentName": "IT Department",
-				"departmentCode": "0004",
+				"departmentCode": "Dept05",
 				"lowDepartmentYn": "F",
 				"preferredLanguage": "ko",
 				"departmentOrder": "50",
@@ -119,14 +119,14 @@
 				"departmentLevel": "1",
 				"enDepartmentName": "IT Department",
 				"enSubOrgCode": "04",
-				"uperDepartmentCode": "0000",
-				"inDepartmentCode": "0004"
+				"uperDepartmentCode": "Dept01",
+				"inDepartmentCode": "Dept05"
 			},
 			{
 				"enCompanyName": "SAMSUNG SDS",
 				"companyCode": "C60",
 				"departmentName": "Finance Department",
-				"departmentCode": "0005",
+				"departmentCode": "Dept06",
 				"lowDepartmentYn": "F",
 				"preferredLanguage": "ko",
 				"departmentOrder": "60",
@@ -143,14 +143,14 @@
 				"departmentLevel": "1",
 				"enDepartmentName": "Finance Department",
 				"enSubOrgCode": "05",
-				"uperDepartmentCode": "0000",
-				"inDepartmentCode": "0005"
+				"uperDepartmentCode": "Dept01",
+				"inDepartmentCode": "Dept06"
 			},
 			{
 				"enCompanyName": "SAMSUNG SDS",
 				"companyCode": "C60",
 				"departmentName": "Sales North",
-				"departmentCode": "0006",
+				"departmentCode": "Dept07",
 				"lowDepartmentYn": "F",
 				"preferredLanguage": "ko",
 				"departmentOrder": "70",
@@ -167,14 +167,14 @@
 				"departmentLevel": "2",
 				"enDepartmentName": "Sales North",
 				"enSubOrgCode": "06",
-				"uperDepartmentCode": "0001",
-				"inDepartmentCode": "0006"
+				"uperDepartmentCode": "Dept02",
+				"inDepartmentCode": "Dept07"
 			},
 			{
 				"enCompanyName": "SAMSUNG SDS",
 				"companyCode": "C60",
 				"departmentName": "Sales South",
-				"departmentCode": "0007",
+				"departmentCode": "Dept08",
 				"lowDepartmentYn": "F",
 				"preferredLanguage": "ko",
 				"departmentOrder": "80",
@@ -191,14 +191,14 @@
 				"departmentLevel": "2",
 				"enDepartmentName": "Sales South",
 				"enSubOrgCode": "07",
-				"uperDepartmentCode": "0001",
-				"inDepartmentCode": "0007"
+				"uperDepartmentCode": "Dept02",
+				"inDepartmentCode": "Dept08"
 			},
 			{
 				"enCompanyName": "SAMSUNG SDS",
 				"companyCode": "C60",
 				"departmentName": "Marketing North",
-				"departmentCode": "0008",
+				"departmentCode": "Dept09",
 				"lowDepartmentYn": "F",
 				"preferredLanguage": "ko",
 				"departmentOrder": "90",
@@ -215,14 +215,14 @@
 				"departmentLevel": "2",
 				"enDepartmentName": "Marketing North",
 				"enSubOrgCode": "08",
-				"uperDepartmentCode": "0002",
-				"inDepartmentCode": "0008"
+				"uperDepartmentCode": "Dept03",
+				"inDepartmentCode": "Dept09"
 			},
 			{
 				"enCompanyName": "SAMSUNG SDS",
 				"companyCode": "C60",
 				"departmentName": "Marketing South",
-				"departmentCode": "0009",
+				"departmentCode": "Dept10",
 				"lowDepartmentYn": "F",
 				"preferredLanguage": "ko",
 				"departmentOrder": "100",
@@ -239,14 +239,14 @@
 				"departmentLevel": "2",
 				"enDepartmentName": "Marketing South",
 				"enSubOrgCode": "09",
-				"uperDepartmentCode": "0002",
-				"inDepartmentCode": "0009"
+				"uperDepartmentCode": "Dept03",
+				"inDepartmentCode": "Dept10"
 			},
 			{
 				"enCompanyName": "SAMSUNG SDS",
 				"companyCode": "C60",
 				"departmentName": "IT Support",
-				"departmentCode": "0010",
+				"departmentCode": "Dept11",
 				"lowDepartmentYn": "F",
 				"preferredLanguage": "ko",
 				"departmentOrder": "110",
@@ -263,8 +263,8 @@
 				"departmentLevel": "2",
 				"enDepartmentName": "IT Support",
 				"enSubOrgCode": "10",
-				"uperDepartmentCode": "0004",
-				"inDepartmentCode": "0010"
+				"uperDepartmentCode": "Dept05",
+				"inDepartmentCode": "Dept11"
 			}
 		],
 		"currentPage": 1,
